@@ -1,2 +1,2 @@
 # FlickeringLantern
-FlickeringLantern is a open source version of Minecraft.
+FlickeringLantern is a open source clone of Minecraft.
